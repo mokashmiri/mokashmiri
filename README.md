@@ -1,20 +1,20 @@
-# 💫 About Me:
-Hi, I’m Mo. I’m a developer who enjoys building things that are useful, reliable, and a little bit smarter than they were yesterday. I like understanding systems from the inside out—whether it’s a data pipeline, an embedded board, or a UI that helps people make sense of complex information.
+# 💫 About Me
+Hi, I’m Mo — a junior software developer who enjoys building practical tools, clean backends, and dashboards that turn noisy signals into clear insight. I like understanding systems end‑to‑end, whether it’s a data pipeline, an embedded board, or a UI that helps people make better technical decisions.
 
-I’m currently studying Computer Engineering at Politecnico di Torino, and in parallel I work on projects that challenge me to grow: from creating real-time monitoring tools for a student rocket engine team, to experimenting with Python automation, to building small web apps with React just because I enjoy it.
+I’m currently studying Computer Engineering at Politecnico di Torino and using my free time to experiment with Python automation, backend services, and small web apps with React and TypeScript.
 
-I learn best by doing, breaking, fixing, and repeating. Most of the projects you’ll find here started because I was curious, needed to automate something, or wanted to understand a topic by building it myself.
+### What you’ll find here
+- **Practical side projects**: small tools and experiments that automate repetitive work or make data easier to explore.  
+- **Backend and data work**: APIs, integrations, and scripts focused on reliability, logging, and observability.  
+- **Embedded & real‑time experiments**: interfaces and monitoring tools that sit close to hardware.
 
-I’m especially interested in:  
-• backend development  
-• data processing and tooling  
-• embedded systems and real-time interfaces  
-• clean UI/UX for technical apps  
-• small projects that solve real problems  
+### Interests & focus
+- **Backend development**  
+- **Data processing and internal tooling**  
+- **Embedded systems and real‑time interfaces**  
+- **Developer experience and clean UI/UX for technical apps**
 
-Outside of code, I like exploring new tools, learning how systems work, and finding better ways to build things that help teams collaborate and execute faster.
-
-I’m always improving, always learning, and always building something new.
+I learn by building, breaking, and iterating. I’m always improving, always learning, and almost always shipping something new.
 
 ---
 
