@@ -19,7 +19,7 @@ I’m always improving, always learning, and always building something new.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mokashmiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokeshmiri/)
 
 ---
 
@@ -72,4 +72,3 @@ I’m always improving, always learning, and always building something new.
 
 [![](https://visitcount.itsvg.in/api?id=mokashmiri&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
