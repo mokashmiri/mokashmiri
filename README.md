@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 Hi, I’m Mo — a junior software developer who enjoys building practical tools, clean backends, and dashboards that turn noisy signals into clear insight. I like understanding systems end‑to‑end, whether it’s a data pipeline, an embedded board, or a UI that helps people make better technical decisions.
 
 I’m currently studying Computer Engineering at Politecnico di Torino and using my free time to experiment with Python automation, backend services, and small web apps with React and TypeScript.
@@ -19,7 +19,7 @@ I learn by building, breaking, and iterating. I’m always improving, always lea
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokeshmiri/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let%27s_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokeshmiri/)
 
 ---
 
