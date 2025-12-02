@@ -73,17 +73,5 @@ Modern, responsive portfolio built with React, Vite, and Tailwind CSS. Features 
 
 ---
 
-# 📊 GitHub Stats:
-![Mo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mokashmiri&show_icons=true&theme=merko&hide_border=false&rank_icon=github)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=mokashmiri&theme=merko&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)<br/>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mokashmiri&theme=merko&hide_border=false&layout=compact&card_width=445&langs_count=8)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mokashmiri&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=mokashmiri&icon=0&color=1)](https://visitcount.itsvg.in)
 
