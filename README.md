@@ -25,7 +25,7 @@ I learn by building, breaking, and iterating. I’m always improving, always lea
 
 ## 🚀 Featured Projects
 
-**Artist Portfolio Website** — [maryamkeshmiri.com](https://www.maryamkeshmiri.com/)  
+[![Visit Artist Portfolio](https://img.shields.io/badge/Artist_Portfolio_Website-maryamkeshmiri.com-111827?style=for-the-badge)](https://www.maryamkeshmiri.com/)  
 Modern, responsive portfolio built with React, Vite, and Tailwind CSS. Features an interactive gallery, video support, and clean UI/UX design.
 
 ---
